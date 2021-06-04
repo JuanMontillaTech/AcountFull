@@ -1,0 +1,5 @@
+C:\Users\JuanMontilla\source\repos\TransactionAccounting\TransactionAccounting.Model\bin\Debug\netcoreapp3.1\TransactionAccounting.Model.deps.json
+C:\Users\JuanMontilla\source\repos\TransactionAccounting\TransactionAccounting.Model\bin\Debug\netcoreapp3.1\TransactionAccounting.Model.dll
+C:\Users\JuanMontilla\source\repos\TransactionAccounting\TransactionAccounting.Model\obj\Debug\netcoreapp3.1\TransactionAccounting.Model.csprojAssemblyReference.cache
+C:\Users\JuanMontilla\source\repos\TransactionAccounting\TransactionAccounting.Model\obj\Debug\netcoreapp3.1\TransactionAccounting.Model.AssemblyInfoInputs.cache
+C:\Users\JuanMontilla\source\repos\TransactionAccounting\TransactionAccounting.Model\obj\Debug\netcoreapp3.1\TransactionAccounting.Model.AssemblyInfo.cs
